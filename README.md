@@ -10,9 +10,11 @@ Insights and recommendations provided focus on Marketing Qualified Lead (MQL) vo
 - Lead Sources Performance
 - Business Types and Segments Performance
 
-The SQL file used for checking and cleaning can be found here.
-The SQL file used for preliminary exploratory analysis can be found here.
-An interactive Power BI dashboard can be downloaded here.
+The SQL file used for checking and cleaning can be found [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/olist_mkt_funnel_check.sql).
+
+The SQL file used for preliminary exploratory analysis can be found [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/olist_mkt_funnel_eda.sql).
+
+An interactive Power BI dashboard can be downloaded [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/marketing_funnel.pbix).
 
 ## **Data Structure**
 
@@ -22,9 +24,9 @@ Olist’s database structure consists of 2 tables: mql with 8K records and close
 
 Prior to the analysis, several checks were performed to ensure familiarity with the dataset and maintain data hygiene, which included removing irrelevant columns. 
 
-The SQL file used for checking and cleaning can be found here.
+The SQL file used for checking and cleaning can be found [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/olist_mkt_funnel_check.sql).
 
-The Issue Log Excel file can be found here.
+The Issue Log Excel file can be found [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/Olist%20MQL%20Issue%20Log.xlsx).
 
 ## **Executive Summary**
 
@@ -32,9 +34,10 @@ The company experienced a dramatic transformation in early 2018, with median con
 
 The following sections will provide more detailed insights for opportunities and improvements:
 
-Below is the screen capture from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be accessed here. 
+Below is the screen capture from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be accessed [here](https://github.com/ntma23/olist_marketing_funnel/blob/main/marketing_funnel.pbix). 
 
-![image](https://github.com/user-attachments/assets/1a179d58-e530-4837-9e10-6142e4053373)
+![image](https://github.com/user-attachments/assets/7b1c9732-75f5-46dc-9640-5244b3705916)
+
 
 
 
@@ -47,7 +50,8 @@ Below is the screen capture from the Power BI dashboard, and more examples are i
 - This transition, coinciding with the start of a new year, likely reflects a **planned marketing campaign or internal initiative**, rather than a gradual external market change.
 - From **February 2018**, the lead-to-close ratio began a gradual **decline**.
   
-![image](https://github.com/user-attachments/assets/b5b192e6-0bd2-425a-a33a-3f2ed8cfcfec)
+![image](https://github.com/user-attachments/assets/868023d0-2bc7-42f8-bc08-93dd65225013)
+
 
 
 ### **Lead Sources Performance**
@@ -56,7 +60,8 @@ Below is the screen capture from the Power BI dashboard, and more examples are i
 - Yet, efficiency-wise, **social media** performed poorly with only around a **5.6% lead-to-close ratio** and the longest conversion time among recognized sources **(30 days)**.
 - In contrast, despite low MQL volume contribution (6.26%), up to **11.22% of direct traffic’s** leads transformed into closed deals with a median of **10 days** per lead, indicating untapped potential.
   
-![image](https://github.com/user-attachments/assets/d56c9e64-1b85-4fef-9517-744625317b69)
+![image](https://github.com/user-attachments/assets/b1a18d23-0e25-46ec-a5ef-e7669992011d)
+
 
 ### **Business Types & Segments Performance**
 
