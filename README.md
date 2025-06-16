@@ -1,4 +1,4 @@
-# Olist Marketing and Sales Funnel Analysis
+# Olist's Marketing and Sales Funnel Analysis
 
 ## **Project Background**
 
